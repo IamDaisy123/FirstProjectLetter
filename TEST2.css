@@ -1,0 +1,167 @@
+body{
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background-color: rgb(0, 0, 0);
+	
+}
+
+#cover{
+	height: 400px;
+	width: 350px;
+	background-color: pink;
+	position: absolute;
+	bottom: 130px;
+	z-index: 3;
+	
+}
+
+#cover:hover{
+	transform-origin: center left;
+	transform: rotateY(-135deg);
+	cursor: pointer;
+	transition-duration: 3s;
+	stroke-width: 180deg;
+	
+	
+	
+}
+
+#content{
+	height: 400px;
+	width: 350px;
+	background-color: rgb(235, 147, 160);
+	position: absolute;
+	bottom: 130px;
+	
+	
+	
+	
+}
+
+#border{
+	height: 400px;
+	width: 83px;
+	background-color: pink;
+	position: absolute;
+	bottom: 130px;
+	left: 460px;
+	z-index: 2;
+}
+
+#p1{
+	position: absolute;
+	bottom: 230px;
+	right: 490px;
+	z-index: 1;	
+	
+}
+
+#bg{
+	position: fixed;
+	bottom: 0%;
+	width: 200px;
+	z-index: -99;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg2{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 30%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#bg1{
+	position: fixed;
+	bottom: 0%;
+	width: 250px;
+	right: 0%;
+}
+
+#um{
+	position: absolute;
+	bottom: 0%;
+	right: 0%;
+	width: 280px;
+}
+
+
+#um1{
+	position: absolute;
+	bottom: 84%;
+	right: 47%;
+	width: 100px;
+}
+
+#um2{
+	position: absolute;
+	bottom: 0%;
+	right: 67%;
+	width: 130px;
+	z-index: -99;
+}
+
+#um3{
+	position: absolute;
+	bottom: 0%;
+	right: 47%;
+	width: 180px;
+	z-index: -99;
+}
+#um4{
+	position: absolute;
+	bottom: 0%;
+	right: 80%;
+	width: 250px;
+	z-index: -99;
+}
+#um5{
+	position: absolute;
+	bottom: 0%;
+	right: 27%;
+	width: 150px;
+	z-index: -99;
+}
+

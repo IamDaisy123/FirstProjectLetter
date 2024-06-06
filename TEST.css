@@ -1,0 +1,49 @@
+body{
+    background: linear-gradient(pink,rgb(221, 99, 119));
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#p1{
+    color: rgb(218, 86, 108);
+    font-size: 40px;
+    
+}
+
+#img{
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#p2{
+    -webkit-text-fill-color: rgb(160, 21, 44);
+    -webkit-text-stroke-width: 3px;
+}
+
+#btn1{
+    width: 80px;
+    height: 30px;
+    margin-right: 50px;
+    border-radius: 5px;
+    border-color: rgb(255, 196, 206);
+    border-width: 3px;
+}
+
+#btn1:hover{
+    border-color: rgb(201, 84, 104);
+    background-color: pink;
+    cursor: pointer;
+}
+
+#btn2{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: rgb(255, 196, 206);
+    border-width: 3px;
+}
+
+#btn2:hover{
+    cursor: pointer;
+}
